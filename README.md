@@ -1,1 +1,1 @@
-# projects
+# resources
